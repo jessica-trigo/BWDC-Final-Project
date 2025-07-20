@@ -1,13 +1,9 @@
 <script>
-  import svelteLogo from "./assets/svelte.svg";
-  import Counter from "./lib/Counter.svelte";
-  import viteLogo from "/vite.svg";
+  import Hook from "./sections/Hook.svelte";
+  import TitleSection from "./sections/TitleSection.svelte";
 </script>
 
 <main>
-  <h1>project</h1>
+  <Hook />
+  <TitleSection />
 </main>
-
-<style>
-
-</style>
