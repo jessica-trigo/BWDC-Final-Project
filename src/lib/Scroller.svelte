@@ -19,7 +19,8 @@
         background-color: #ffe2e2;
         padding: min(100vh, 30rem) 1rem;
         border-style: solid;
-        border-color: #f87171 10px;
+        border-width: 5px;
+        border-color: #f87171;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
