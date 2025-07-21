@@ -17,7 +17,9 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "@highcharts/svelte": "^1.1.1",
     "@tailwindcss/vite": "^4.1.11",
+    "highcharts": "^12.3.0",
     "tailwindcss": "^4.1.11"
   }
 }

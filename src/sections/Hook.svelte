@@ -65,7 +65,7 @@
       <div class="spot col-span-1">
         <img
           src="src/assets/3.svg"
-          alt="Flower Vase"
+          alt="Book"
           height="500px"
           width="400px"
         />
@@ -75,8 +75,8 @@
 
     <div>
       <img
-        src="src/assets/1.svg"
-        alt="Flower Vase"
+        src="src/assets/4.svg"
+        alt="Mattress"
         height="500px"
         width="400px"
       />
